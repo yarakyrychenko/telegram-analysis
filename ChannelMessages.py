@@ -18,7 +18,7 @@ def scan(path_to_file):
     file = [word for word in file if word != ""]
     return file
 
-file = scan("Misinfo-Telegram-Channels.txt")
+file = scan("Media-Telegram-Channels.txt")
 
 # some functions to parse json date
 class DateTimeEncoder(json.JSONEncoder):
@@ -62,7 +62,7 @@ async def main(phone):
     me = await client.get_me()
     number = 1
     errors = []
-    for entity in file[90:]: 
+    for entity in file: 
         print(f"number {number}, channel {entity}")
         number +=1
 
@@ -106,7 +106,7 @@ async def main(phone):
             json.dump(all_messages, outfile, cls=DateTimeEncoder)
         print(f"Done with number {number}, channel {entity}")
 
-    f = open("errors.txt", "x")
+    f = open("errors.txt", "w")
     for error in errors:
         f.write(f"{error}\n")
     f.close()
