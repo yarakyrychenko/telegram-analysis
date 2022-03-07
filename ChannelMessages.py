@@ -102,7 +102,7 @@ async def main(phone):
                 break
 
         new_name = entity.split("/")[-1]
-        with open(f'MisinfoTelegram/{new_name}.json', 'w') as outfile:
+        with open(f'MediaTelegram/{new_name}.json', 'w') as outfile:
             json.dump(all_messages, outfile, cls=DateTimeEncoder)
         print(f"Done with number {number}, channel {entity}")
 
