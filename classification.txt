@@ -1,0 +1,30 @@
+Misinfo 
+donbassr .json
+
+
+Russian Propaganda
+tass_agency .json
+glavmedia.json 
+rbc_news .json 
+rt_russian .json 
+SolovievLive.json
+
+Not State Propaganda 
+ostorozhno_novosti
+
+Not useful but super interesting 
+donbassr_chat.json
+NeSocSetiChat .json 
+
+Useless 
+donbassretro .json
+donbass_segodnya .json
+
+
+To scrape misinfo 
+https://t.me/botcharov
+https://t.me/surf_noise1
+https://t.me/burrowingowl
+
+To scrape Propaganda
+redakciya_channel
