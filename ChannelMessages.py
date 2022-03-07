@@ -62,7 +62,7 @@ async def main(phone):
     me = await client.get_me()
     number = 1
     errors = []
-    for entity in file: 
+    for entity in file[70:]:
         print(f"number {number}, channel {entity}")
         number +=1
 

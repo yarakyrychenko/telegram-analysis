@@ -1,0 +1,62 @@
+Misinfo
+donbassr .json
+donbassru .json
+doneckij_partizan.json
+doninside .json
+marochkolive.json
+radlekukh .json
+romagolovanov .json
+sladkov_plus.json
+SonOfMonarchy.json
+superdolgov.json
+ntnzn.json
+veronikastepanova2011.json
+vladlentatarsky.json
+NeSocSeti.json
+akashevarova .json
+annashafran .json
+ASGasparyan .json
+
+Russian Propaganda
+tass_agency .json
+glavmedia.json 
+rbc_news .json 
+rt_russian .json 
+SolovievLive.json
+dplatonova .json
+epoddubny.json
+evgenyprimakov .json
+gazetaru.json
+marinaslovo .json
+vedomosti.json
+vedomostiru .json
+warjournaltg.json
+yudenich .json
+
+Regular news
+MaximYusin .json
+novaya_gazetaru.json
+
+To scrape Misinfo 
+https://t.me/botcharov
+https://t.me/surf_noise1
+https://t.me/burrowingowl
+
+To scrape Propaganda
+https://t.me/sashakots
+
+To scrape Regular news
+https://t.me/redakciya_channel
+https://t.me/ostorozhno_novosti
+]
+
+
+Not useful but super interesting 
+donbassr_chat.json
+NeSocSetiChat .json 
+chat_Doninside .json
+
+Useless 
+donbassretro .json
+donbass_segodnya .json
+wargonzo.json
